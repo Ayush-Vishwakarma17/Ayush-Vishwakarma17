@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" alt="cute anime gif" width="230" src="https://media.tenor.com/TKpmh4WFEsIAAAAi/anime-girl.gif">
+<img align="right" alt="cute anime gif" width="230" src="chopper.gif">
 
 👋 Hey there! I’m **Ayush Vishwakarma**<br><br>
 🎓 Currently pursuing my **BCA** and exploring the endless world of code.<br>
