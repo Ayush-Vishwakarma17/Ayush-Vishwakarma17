@@ -106,7 +106,7 @@ status: probably debugging something right now
 - 🧠 Solving problems on **LeetCode** daily — building that pattern-recognition brain
 - ⚔️ New to **Codeforces**, learning the ropes contest by contest
 - 🌱 Leveling up into **Full Stack Dev** + exploring **AI/ML**
-- 🛠️ Writing code that future-me won't hate reading
+- 🛠️ Writing code that future-me won't hate reading (may be)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF61D8,25:A78BFA,50:60A5FA,75:34D399,100:00F5FF&height=3&width=1000" width="60%"/>
